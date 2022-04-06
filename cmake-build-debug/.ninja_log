@@ -1,3 +1,6 @@
 # ninja log v5
-0	613	6681294429664414	CMakeFiles/cpp_practice.dir/main.cpp.obj	2539f1bcf5754a6a
-615	759	6681294431099920	cpp_practice.exe	73498accb300c1e0
+4	1086	6706406860630344	CMakeFiles/cpp_practice.dir/main.cpp.obj	2539f1bcf5754a6a
+1086	1287	6706406862606502	cpp_practice.exe	73498accb300c1e0
+3	702	6707155162271576	CMakeFiles/cpp_practice.dir/Chapter_1/1.20.cpp.obj	35509d702b1404da
+5	70	6707155155974124	CMakeFiles/cpp_practice.dir/test.cpp.obj	c9aea69a445e3263
+6	700	6707155162257338	CMakeFiles/cpp_practice.dir/Chapter_1/1.21.cpp.obj	86ca3fb38be15a36
